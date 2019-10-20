@@ -16,3 +16,25 @@ In Part I I will explain the overall purpose of the package. Part II will be con
 ## Files
 
 ## References
+[1] Python Software Foundation. Welcome to python.org  
+https://www.python.org/  
+[2] GMIT. Galway Mayo Institute of Technology.  
+https://www.gmit.ie/  
+[3] Project Jupyter. Project Jupyter.  
+https://jupyter.org/ 
+[4] Random sampling (numpy.random)  
+https://docs.scipy.org/doc/numpy-1.14.0/reference/routines.random.html  
+[5] Wikipedia. Uniform distribution (continuous)  
+https://en.wikipedia.org/wiki/Uniform_distribution_(continuous)  
+[6] Investopedia. Uniform distribution Definition.  
+https://www.investopedia.com/terms/u/uniform-distribution.asp  
+[7] Wikipedia. Random number generation.  
+https://en.wikipedia.org/wiki/Random_number_generation  
+[8] Investopedia. Simple Random Sample Definition.  
+https://www.investopedia.com/terms/s/simple-random-sample.asp  
+[9] Investopedia. Normal Distribution Definition.  
+https://www.investopedia.com/terms/n/normaldistribution.asp  
+[10] Aaron Krauss. Why Random Numbers are Impossible in Software.  
+https://thecodeboss.dev/2017/05/why-random-numbers-are-impossible-in-software/  
+[11] Geeks for Geeks. Python Numpy.  
+https://www.geeksforgeeks.org/python-numpy/  
