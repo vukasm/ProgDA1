@@ -38,3 +38,7 @@ https://www.investopedia.com/terms/n/normaldistribution.asp
 https://thecodeboss.dev/2017/05/why-random-numbers-are-impossible-in-software/  
 [11] Geeks for Geeks. Python Numpy.  
 https://www.geeksforgeeks.org/python-numpy/  
+[12] Stack overflow.   
+https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpy  
+[13] Brilliant. Poisson Distribution.  
+https://brilliant.org/wiki/poisson-distribution/  
