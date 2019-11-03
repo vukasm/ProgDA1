@@ -42,3 +42,5 @@ https://www.geeksforgeeks.org/python-numpy/
 https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpy  
 [13] Brilliant. Poisson Distribution.  
 https://brilliant.org/wiki/poisson-distribution/  
+[14] Wikipedia. Lomax distribution.  
+https://en.wikipedia.org/wiki/Lomax_distribution  
