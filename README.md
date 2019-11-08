@@ -13,7 +13,10 @@ In Part I I will explain the overall purpose of the package. Part II will be con
 ## How to run the code
 1. Make sure you have Python installed.
 
-## Files
+## Files  
+1. numpy-random.ipynb - Jupyter notebook where you can find the assignment  
+
+
 
 ## References
 [1] Python Software Foundation. Welcome to python.org  
@@ -38,9 +41,11 @@ https://www.investopedia.com/terms/n/normaldistribution.asp
 https://thecodeboss.dev/2017/05/why-random-numbers-are-impossible-in-software/  
 [11] Geeks for Geeks. Python Numpy.  
 https://www.geeksforgeeks.org/python-numpy/  
-[12] Stack overflow.   
+[12] Stack overflow. Shuffle vs Permute numpy.  
 https://stackoverflow.com/questions/15474159/shuffle-vs-permute-numpy  
 [13] Brilliant. Poisson Distribution.  
 https://brilliant.org/wiki/poisson-distribution/  
 [14] Wikipedia. Lomax distribution.  
 https://en.wikipedia.org/wiki/Lomax_distribution  
+[15] Stack overflow. Difference betwee functions generating random numbers in numpy.  
+https://stackoverflow.com/questions/30762832/difference-between-functions-generating-random-numbers-in-numpy  
