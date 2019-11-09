@@ -49,3 +49,5 @@ https://brilliant.org/wiki/poisson-distribution/
 https://en.wikipedia.org/wiki/Lomax_distribution  
 [15] Stack overflow. Difference betwee functions generating random numbers in numpy.  
 https://stackoverflow.com/questions/30762832/difference-between-functions-generating-random-numbers-in-numpy  
+[16] DataFlair. Python Probability distributions.  
+https://data-flair.training/blogs/python-probability-distributions/  
